@@ -1,0 +1,22 @@
+.h1 {
+    text-align: center;
+    font-size: 30px;
+}
+
+body {
+    background-color: bisque;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+.table,
+tr,
+th,
+tbody,
+td {
+    border: 2px solid black;
+    text-align: center;
+}
